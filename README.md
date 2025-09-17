@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="420" style="vertical-align: up; margin-right: 20px;"/>
-  <img src="assets/dam-alex.png" alt="Alex y Dam" width="400" style="vertical-align: middle; border-radius: 16px;"/>
+  <img src="assets/dam-alex.png" alt="Alex y Dam" width="400" style="vertical-align: middle; border-radius: 40%;"/>
 </h1>
 
 

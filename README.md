@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="420" style="vertical-align: middle; margin-right: 20px;"/>
+  <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="420" style="vertical-align: up; margin-right: 20px;"/>
   <img src="assets/dam-alex.jpg" alt="Alex y Dam" width="400" style="vertical-align: middle; border-radius: 16px;"/>
 </h1>
 
@@ -39,10 +39,4 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
     <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
   </a>
-</p>
-
----
-
-<p align="center">
-✨ *Siempre en desarrollo. AlwaysInDev.* ✨
 </p>

@@ -10,14 +10,14 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />
+  <a href="https://www.youtube.com/watch?v=v0T4k-apYrE">
+    <img src="https://i.ytimg.com/vi/v0T4k-apYrE/maxresdefault.jpg" width="32%" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="32%" />
+  <a href="https://www.youtube.com/watch?v=vgVkJifl6AQ">
+    <img src="https://i.ytimg.com/vi/vgVkJifl6AQ/maxresdefault.jpg" width="32%" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
+  <a href="https://www.youtube.com/watch?v=Kd17haTxm0c">
+    <img src="https://i.ytimg.com/vi/Kd17haTxm0c/maxresdefault.jpg" width="32%" />
   </a>
 </p>
 

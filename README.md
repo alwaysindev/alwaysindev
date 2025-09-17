@@ -1,5 +1,5 @@
 <h1 align="center">
-  AlwaysInDev 🚀
+  Always in Dev 🚀
 </h1>
 
 <p align="center">

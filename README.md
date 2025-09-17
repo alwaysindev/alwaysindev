@@ -4,7 +4,7 @@
 </h1>
 
 
-<p align="center"> Somos <b>David Amorín (Dam)</b> y <b>Alejandro Cárabe (Alex)</b>, creadores de <b>AlwaysInDev</b>, donde compartimos contenido acerca de <b>Inteligencia Artificial, Data Science, Programación e Innovación</b> y todo lo que nos apasiona. </p>
+<p align="center"> Somos <b>David Amorín (Dam)</b> y <b>Alejandro Cárabe (Alex)</b>, creadores de <b>AlwaysInDev</b>, donde compartimos contenido acerca de <b>Inteligencia Artificial, Data Science, Programación, Innovación</b> y todo lo que nos apasiona. </p>
 
 <h2 align="center"> 📺 Últimos vídeos de YouTube </h2>
 

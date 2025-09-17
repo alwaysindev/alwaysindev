@@ -10,7 +10,7 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
 
 ---
 
-## 🌍 Conócenos en nuestras redes
+<h2 align="center"> 🌍 Conócenos en nuestras redes </h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@InDevAlways">
@@ -29,7 +29,7 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
 
 ---
 
-## 📺 Últimos vídeos de YouTube
+<h2 align="center"> 📺 Últimos vídeos de YouTube </h2>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">

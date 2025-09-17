@@ -6,6 +6,20 @@
 
 Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  
 
+<h2 align="center"> 📺 Últimos vídeos de YouTube </h2>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="32%" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
+  </a>
+</p>
 
 <h2 align="center"> 🌍 Conócenos en nuestras redes </h2>
 
@@ -22,21 +36,5 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/106130404/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="40" alt="LinkedIn"/>
-  </a>
-</p>
-
-
-<h2 align="center"> 📺 Últimos vídeos de YouTube </h2>
-
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="32%" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-    <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
   </a>
 </p>

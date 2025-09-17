@@ -1,4 +1,4 @@
-# ¡Hey 👋 Somos AlwaysInDev 🚀
+# AlwaysInDev 🚀
 
 <!-- Imagen de perfil / logo -->
 <img src="URL_DE_TU_IMAGEN_AQUI" width="140" align="center" />

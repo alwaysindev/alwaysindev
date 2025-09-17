@@ -28,14 +28,4 @@ Aquí va una fila con los últimos vídeos. Puedes poner 2–3 miniaturas enlaza
   <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
 </a>
 
----
-
-## 🧑‍💻 Sobre nosotros
-
-- **Alex**: Data, IA aplicada e innovación.   
-- **Dam**: Desarrollo de software, arquitectura, nuevas tecnologías.  
-- Buscamos crear contenido claro, útil, avanzado, pero cercano.
-
----
-
 ✨ *Siempre en desarrollo. AlwaysInDev.* ✨

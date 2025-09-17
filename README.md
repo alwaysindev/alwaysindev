@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="500"/>
-  <img src="assets/dam-alex.jpg" alt="Alex y Dam" width="500"/>
+  <!-- Logo centrado verticalmente -->
+  <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="420" style="vertical-align: middle; margin-right: 20px;"/>
+  <!-- Foto con "zoom" (se hace aumentando el width %) -->
+  <img src="assets/dam-alex.jpg" alt="Alex y Dam" width="540" style="vertical-align: middle; border-radius: 12px;"/>
 </h1>
 
 Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  

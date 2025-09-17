@@ -14,10 +14,10 @@
     <img src="https://i.ytimg.com/vi/v0T4k-apYrE/hqdefault.jpg" width="32%" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=vgVkJifl6AQ">
-    <img src="https://i.ytimg.com/vi/vgVkJifl6AQ/maxresdefault.jpg" width="32%" />
+    <img src="https://i.ytimg.com/vi/vgVkJifl6AQ/hqdefault.jpg" width="32%" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=Kd17haTxm0c">
-    <img src="https://i.ytimg.com/vi/Kd17haTxm0c/maxresdefault.jpg" width="32%" />
+    <img src="https://i.ytimg.com/vi/Kd17haTxm0c/hqdefault.jpg" width="32%" />
   </a>
 </p>
 

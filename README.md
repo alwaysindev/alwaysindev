@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/logo-alwaysindev.png" alt="AlwaysInDev Logo" width="160"/>
+  <img src="assets/logo-text-alwaysindev.png" alt="AlwaysInDev Logo" width="160"/>
 </p>
 
 Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  

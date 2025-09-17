@@ -2,9 +2,9 @@
   Always in Dev 🚀
 </h1>
 
-<p align="center">
+<h1 align="center">
   <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="160"/>
-</p>
+</h1>
 
 Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  
 

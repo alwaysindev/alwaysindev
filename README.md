@@ -1,31 +1,48 @@
 # AlwaysInDev 🚀
 
-<!-- Imagen de perfil / logo -->
-<img src="URL_DE_TU_IMAGEN_AQUI" width="140" align="center" />
+<p align="center">
+  <img src="assets/logo-alwaysindev.png" alt="AlwaysInDev Logo" width="160"/>
+</p>
 
-Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.
+Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  
 
-🌍 Nos puedes seguir en:
+---
 
-[![YouTube](https://img.shields.io/badge/YouTube-AlwaysInDev-red?logo=youtube&logoColor=white)](https://www.youtube.com/@InDevAlways)  
-[![Instagram](https://img.shields.io/badge/Instagram-@AlwaysInDev-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/alwaysindev/)  
-[![TikTok](https://img.shields.io/badge/TikTok-@always_indev-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@always_indev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlwaysInDev-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/106130404/)
+## 🌍 Conócenos en nuestras redes
+
+<p align="center">
+  <a href="https://www.youtube.com/@InDevAlways">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alwaysindev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@always_indev">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/106130404/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📺 Últimos vídeos de YouTube
 
-Aquí va una fila con los últimos vídeos. Puedes poner 2–3 miniaturas enlazadas. Ejemplo:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="32%" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
+    <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
+  </a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-  <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />
-</a>
-<a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-  <img src="https://i.ytimg.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="32%" />
-</a>
-<a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-  <img src="https://i.ytimg.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="32%" />
-</a>
+---
 
+<p align="center">
 ✨ *Siempre en desarrollo. AlwaysInDev.* ✨
+</p>

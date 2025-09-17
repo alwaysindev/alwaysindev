@@ -1,4 +1,6 @@
-# AlwaysInDev 🚀
+<h1 align="center">
+  AlwaysInDev 🚀
+</h1>
 
 <p align="center">
   <img src="assets/logo-alwaysindev.png" alt="AlwaysInDev Logo" width="160"/>
@@ -12,16 +14,16 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
 
 <p align="center">
   <a href="https://www.youtube.com/@InDevAlways">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
   </a>
   <a href="https://www.instagram.com/alwaysindev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@always_indev">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png" width="40" alt="TikTok"/>
   </a>
   <a href="https://www.linkedin.com/company/106130404/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
 

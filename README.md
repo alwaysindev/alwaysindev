@@ -8,10 +8,10 @@
 
 Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **AlwaysInDev**, donde compartimos contenidos de **Inteligencia Artificial, Data Science, Programación e Innovación** y todo lo que nos apasiona.  
 
----
 
 <h2 align="center"> 🌍 Conócenos en nuestras redes </h2>
-
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <p align="center">
   <a href="https://www.youtube.com/@InDevAlways">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
@@ -26,11 +26,11 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <h2 align="center"> 📺 Últimos vídeos de YouTube </h2>
-
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
     <img src="https://i.ytimg.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="32%" />

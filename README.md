@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="assets/alwaysindev-text.png" alt="AlwaysInDev Logo" width="420" style="vertical-align: up; margin-right: 20px;"/>
-  <img src="assets/dam-alex-rounded.png" alt="Alex y Dam" width="400" style="vertical-align: middle; border-radius: 40%;"/>
+  <img src="https://github.com/user-attachments/assets/b36c4656-8610-4dfc-a338-a9888767263d" alt="AlwaysInDev Logo" width="420" style="vertical-align: up; margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/02d502f3-66c0-44a3-81bf-5845f9a5713b" alt="Alex y Dam" width="400" style="vertical-align: middle; border-radius: 40%;"/>
 </h1>
 
 

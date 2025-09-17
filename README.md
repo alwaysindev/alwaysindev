@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=v0T4k-apYrE"><img src="https://i.ytimg.com/vi/v0T4k-apYrE/mqdefault.jpg" width="32%" /></a>
   <a href="https://www.youtube.com/watch?v=vgVkJifl6AQ"><img src="https://i.ytimg.com/vi/vgVkJifl6AQ/mqdefault.jpg" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=Kd17haTxm0c"><img src="https://i.ytimg.com/vi/Kd17haTxm0c/mqdefault.jpg" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=Kd17haTxm0c"><img src="https://i.ytimg.com/vi/Kd17haTxm0c/mqdefault.jpg" width="32%" style="vertical-align: middle; border-radius: 40%; /></a>
 </p>
 
 

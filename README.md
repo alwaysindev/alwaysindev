@@ -15,13 +15,13 @@ Somos **Alejandro Cárabe (Alex)** y **David Amorín (Dam)**, creadores de **Alw
 <p align="center">
   <a href="https://www.youtube.com/@InDevAlways">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/alwaysindev/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" alt="Instagram"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@always_indev">
     <img src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png" width="40" alt="TikTok"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/106130404/">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="40" alt="LinkedIn"/>
   </a>
